@@ -16,7 +16,7 @@ A first logit model controlling for all variables reveals that age and belonging
 
 *Table 1. Comparison of Model AICs*
 
-<img src="figures/Tab1.png" alt="Table 1" width="550"/>
+<img src="figures/Tab1.png" alt="Table 1" width="450"/>
 
 The AIC puts more more emphasis on model performance and tends to penalize complex models less than other methods such as the Bayesian Information Criterion (Murphy, 2012: 162). This can explain the good performance of the full model here. A simple rule of thumb determines that models with 􏰀AIC < 2 have substantial support while those for which 􏰀AIC > 4 have considerably less support (Burnham & Anderson, 2004). Because the variable for sex hardly improves the model fit and would add complexity to the statistical analysis, it is not included in the final model.
 
@@ -28,7 +28,7 @@ The model used in this report maximizes explanatory power with limited complexit
 
 *Table 2. Model Performances (test data)*
 
-<img src="figures/Tab2.png" alt="Table 2" width="750"/>
+<img src="figures/Tab2.png" alt="Table 2" width="550"/>
 
 *Fig 1. Receiver Operating Characteristics Curve*
 
